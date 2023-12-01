@@ -1,0 +1,16 @@
+td,th{
+    padding: 7px;
+}
+#home{
+    padding: 8px;
+    border-radius: 4px;
+    margin-left: 40px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    background-color: rgb(86, 136, 108);
+    color: white;
+}
+#home:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+    background-color: rgb(30, 71, 55);
+}

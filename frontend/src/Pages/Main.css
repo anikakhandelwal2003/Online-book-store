@@ -1,0 +1,47 @@
+.navbar{
+    height: 40px;
+    border: 3px solid beige;
+    display: flex;
+    border-top: none;
+    border-right: none;
+    
+}
+.navbar:hover{
+    color: beige;
+}
+#login{
+    padding: 4px 70px 10px 980px;
+    color: beige;
+    
+}
+#signup{
+    padding: 4px 70px 10px 30px;
+        color: beige;
+}
+#adminlogin{
+    padding: 4px 70px 10px 30px;
+        color: beige;
+}
+#login:hover{
+    color: rgb(189, 96, 43);
+}
+#signup:hover{
+
+    color: rgb(189, 96, 43);
+}
+#adminlogin:hover{
+
+    color: rgb(189, 96, 43);
+}
+
+.fixed-header{
+    position: absolute;
+    top:0px ;
+    left: 0px;
+   display: flex;
+   justify-content: center;
+    width: 100% ;
+    height: 100vh;
+   background-image: url("https://i0.wp.com/seminarysurvivalguide.com/wp-content/uploads/2017/08/cropped-STACK-OF-BOOKS-dim.jpg?ssl=1https://smallbiztrends.com/wp-content/uploads/2016/06/shutterstock_420168532-1-660x330.jpg");
+    background-size: cover;
+}

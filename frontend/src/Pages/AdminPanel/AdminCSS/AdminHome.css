@@ -1,0 +1,79 @@
+.Admin_Home{
+    background-color: rgba(115, 187, 173, 0.877);
+    position: absolute;
+    top:0px ;
+     left: 0px;
+     display: inline-block;
+    background-size: cover;
+     width: 100%;
+     height: 100vh;
+}
+h1{
+    text-align: center;
+}
+#butt1{
+    padding: 9px;
+    border-radius: 4px;
+    margin-left: 840px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    background-color: rgb(86, 136, 108);
+    text-align: center;
+    color: white;
+}
+#butt1:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+    background-color: rgb(30, 71, 55);
+}
+#butt2{
+    padding: 8px;
+    border-radius: 4px;
+    margin-left: 40px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    background-color: rgb(86, 136, 108);
+    color: white;
+}
+#butt2:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+    background-color: rgb(30, 71, 55);
+}
+#butt3{
+    padding: 8px;
+    border-radius: 4px; 
+    margin-left: 40px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    background-color: rgb(86, 136, 108);
+    color: white;
+}
+#butt3:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+    background-color: rgb(30, 71, 55);
+}
+#butt4{
+    padding: 8px;
+    border-radius: 4px;
+    margin-left: 40px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    background-color: rgb(86, 136, 108);
+    color: white;
+}
+#butt4:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+    background-color: rgb(30, 71, 55);
+}
+#butt5{
+    padding: 8px;
+    border-radius: 4px;
+    margin-left: 40px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    background-color: rgb(86, 136, 108);
+    color: white;
+}
+#butt5:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+    background-color: rgb(30, 71, 55);
+}
